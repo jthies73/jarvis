@@ -7,7 +7,7 @@ The Pi runs Hermes Agent (Nous Research) and is set up with Claude Code.
 
 | File | What it is |
 | --- | --- |
-| `jarvis-pi-openrouter.md` | Setup guide, OpenRouter (pay per use) |
+| `guide/` | Setup guide, OpenRouter (pay per use). Start with `00-overview.md` |
 | `AGENTS.md` | House rules and how-to cases for Claude Code on your computer (`CLAUDE.md` points to it) |
 | `jarvis-wizard.sh` | Interactive wizard for the steps that involve secrets. Run it in a separate terminal, never inside Claude Code |
 

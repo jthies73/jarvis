@@ -1,7 +1,7 @@
 # Jarvis: instructions for the agent on my computer
 
 This repo is the setup material for Jarvis, a Telegram assistant on a
-Raspberry Pi called jarvis (see README.md and jarvis-pi-openrouter.md). I'm new
+Raspberry Pi called jarvis (see README.md and the guide in `guide/`). I'm new
 to Linux. Work in a way I can follow.
 
 This file is for Claude Code on my computer. Hermes on the Pi reads a
