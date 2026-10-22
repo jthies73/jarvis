@@ -1,0 +1,7 @@
+# Network details and username, filled in by jarvis-wizard.sh. Not secret, but personal.
+.jarvis.env
+.DS_Store
+# Personal, created while following the guide
+.claude/
+LOG.md
+backup/
